@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://stockton.edu/business/images/computer-science-banner.jpg" />
+</p>
 <h1 align="center">Hi 👋, I'm Nick Jarrett</h1>
 <h3 align="center">An undergraduate student at Clemson University persuing a BS in Computer Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
