@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)(https:NickJarrett425.io)
+[![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 <h1 align="center">Hi 👋, I'm Nicholas Jarrett</h1>
 <h3 align="center">An undergraduate student at Clemson University persuing a BS in Computer Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
