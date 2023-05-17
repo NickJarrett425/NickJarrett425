@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nicholas.jarrett10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11-CAR7dskuOsiFqqUZ4e5XT411--NeSV/view?usp=sharing](https://drive.google.com/file/d/11-CAR7dskuOsiFqqUZ4e5XT411--NeSV/view?usp=sharing)
+- 📄 Know about my experiences by viewing my [Resume](https://drive.google.com/file/d/11-CAR7dskuOsiFqqUZ4e5XT411--NeSV/view?usp=sharing).
 
 - ⚡ Fun fact **My favorite food to cook is Ratatouille!**
 
