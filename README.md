@@ -49,8 +49,8 @@
   <a href="https://github.com/NickJarrett425/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=NickJarrett425" alt="Nick's GitHub stats">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" alt="Top Languages">
+  <a href="https://github.com/NickJarrett425/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickJarrett425" alt="Top Languages">
   </a>
 </div>
 
