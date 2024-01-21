@@ -9,7 +9,6 @@
 <br/>
 
 <div align="center">
- 
 🔭 I’m currently working on **DriversOnly.org**
  
 🌱 I’m currently learning **web hosting with Apache.**
@@ -17,8 +16,7 @@
 💬 Ask me about **Django, AWS Services, Bootstrap... or anything.**
 
 ⚡ Fun fact! **The dish in Ratatouille is not ratatouille. It's a variation called confit byaldi.**
-
- </div>
+</div>
 
  <div align="center"> 
   <a href="mailto:nicholas.jarrett10@gmail.com@gmail.com">
@@ -28,8 +26,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
- <hr/>
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -43,7 +40,6 @@
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NickJarrett425/NickJarrett425/output/github-contribution-grid-snake.svg" />
 </div>
-
 <hr/>
 
 <h3 align="center">
