@@ -46,7 +46,12 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
+  <a href="https://github.com/NickJarrett425/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=NickJarrett425" alt="Nick's GitHub stats">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" alt="Top Languages">
+  </a>
 </div>
 
 <hr/>
