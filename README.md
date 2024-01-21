@@ -43,7 +43,6 @@
 </div>
 <hr/>
 
-<!-- UNCOMMENT WHEN YOUR STATS DON'T SUCK
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
@@ -54,7 +53,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickJarrett425" alt="Top Languages">
   </a>
 </div>
--->
 
 <hr/>
 <h3 align="center">
