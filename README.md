@@ -16,7 +16,7 @@
 
 💬 Ask me about **Django, AWS Services, Bootstrap... or anything.**
 
-⚡ Fun fact **The dish in Ratatouille is not ratatouille. It's a variation called confit byaldi.**
+⚡ Fun fact! **The dish in Ratatouille is not ratatouille. It's a variation called confit byaldi.**
 
  </div>
 
