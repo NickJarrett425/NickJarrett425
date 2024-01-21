@@ -37,8 +37,6 @@
     <img src="https://skillicons.dev/icons?i=java,py,js,html,css,c,cpp,mysql,nodejs,react,git,github,aws" />
     <img src="https://skillicons.dev/icons?i=azure,linux,django,bootstrap,sklearn,vscode,vim,idea,anaconda,discord,regex,gmail,linkedin,stackoverflow,xd" /><br>
 </div>
-
-<br/>
 <hr/>
 
 <div align="center">
