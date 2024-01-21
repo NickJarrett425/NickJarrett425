@@ -43,7 +43,13 @@
 </div>
 <hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
 [![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickJarrett425)](https://github.com/NickJarrett425/github-readme-stats)
+</div>
+
+<hr/>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collaborate!+:)" />
