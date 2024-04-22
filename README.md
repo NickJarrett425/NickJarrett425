@@ -60,7 +60,9 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collaborate!+:)" />
 </h3>
- 
+
+<!--
 <div align="center">
     <p>🚀 Enjoyed exploring my portfolio? Leave your feedback at <a href="https://nick-jarrett.com" target="_blank">nick-jarrett.com</a>!</p>
 </div>
+-->
